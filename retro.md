@@ -1,1 +1,5 @@
+Retrospektiivi on tapaaminen, joka pidetään aina projektin tai prosessin tultua loppuun ja jossa keskustellaan mikä projektissa tai prosessissa onnistui, mitä olisi voinut parantaa ja miten onnistua seuraavissa projekteissa tai prosesseissa.
 
+Start, Stop, Continue, More of, Less of Wheel -retrospektiivitekniikassa fasilitaattori kerää tiimin jäseniltä palautetta projektista tai prosessista, jotka luokitellaan johonkin viidestä kategoriasta jotka tekniikan nimessä esiintyvät ja kirjoitetaan ympyrään, joka on jaettu viiteen osaan. Retrospektiivitekniikkaan menee aikaa noin 10-25 minuuttia ja sen tarkoituksena on selvittää millaisia muutoksia tiimi kaipaa toimintaansa.
+
+Glad, Sad, Mad -retrospektiivitekniikassa tiimin jäseniltä kerätään lapuille huomioita mitä tekivät projektin tai prosessin aikana ja nämä jaotellaan johonkin tekniikan nimessä esiintyvän kategorian alle. Sen jälkeen tiimissä äänestetään mitkä käsiteltävät asiat ovat tärkeimpiä ja niitä käydään läpi eniten ääniä saaneesta lähtien kunnes kaikki on käyty läpi tai aika loppuu. Retrospektiivitekniikkaan menee aikaa maksimi tunti.
